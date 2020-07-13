@@ -10,3 +10,4 @@ TASK DESCRIPTION:
 6. Job3 : Test your app if it is working or not.
 7. Create One extra job job4 for monitor : If container where app is running. fails due to any reson then this job should automatically start the container again.
 to see the detailed task architecture visit:
+https://medium.com/@pds146c/automation-using-git-jenkins-docker-and-lot-more-dd63051aa101
